@@ -1,0 +1,6 @@
+{
+  "name": "Sales Quarterly Revenue Analyzer",
+  "description": "Upload sales orders CSV, visualize total revenue by region and quarter with interactive charts and tables, and generate deterministic AI quarterly variance summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
